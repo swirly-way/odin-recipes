@@ -31,5 +31,8 @@ h1 {
 }
 
 .rcp-image {
-    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
 }
