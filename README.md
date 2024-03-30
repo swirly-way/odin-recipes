@@ -14,6 +14,6 @@ In this project I tried to showcase my understanding of HTML elements such as pa
 30/03 UPDATE
 
 After learning about CSS, styling and the cascade I have come back to improve my website appearance. I did this through external CSS linking and making use
-of ID and Class selectors.
+of ID, class and type selectors.
 
 
