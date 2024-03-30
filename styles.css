@@ -8,3 +8,17 @@ h1 {
     font-family: Brush Script MT, 'Times New Roman', Times, serif;
 }
 
+#index {
+    background-color: rgba(197, 120, 75, 0.781);
+    text-align: center;
+    font-size: 40px;
+    font-family: Brush Script MT, 'Times New Roman', Times, serif;
+}
+
+.subheader {
+    background-color: rgba(197, 120, 75, 0.781);
+    color: white;
+    text-align: center;
+    font-family: Brush Script MT, 'Times New Roman', Times, serif;
+
+}
