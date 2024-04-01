@@ -2,6 +2,12 @@ body {
     background-color: rgb(20, 34, 97);
 }
 
+/* { 
+    outline: 1px solid red;
+    outline-offset: -1px;
+  }*/
+  
+
 .main-container {
   width: 630px;
   height: 400px;
@@ -37,6 +43,12 @@ h1 {
     font-size: 20px;
     font-family: Brush Script MT, 'Times New Roman', Times, serif;
     list-style-type: none;
+    padding: 20px;
+    display: flex;
+}
+
+#index li {
+    flex: 1;
 }
 
 .subheader {
