@@ -10,3 +10,10 @@ Below you can find listed three links which will take you to three different web
 Each page presents you with a different recipe with its ingredients and the steps to follow on the quest to recovering your HP during this adventure called life.
 
 In this project I tried to showcase my understanding of HTML elements such as paragraphs, lists, links and images.
+
+30/03 UPDATE
+
+After learning about CSS, styling and the cascade I have come back to improve my website appearance. I did this through external CSS linking and making use
+of ID, class and type selectors.
+
+
