@@ -16,4 +16,8 @@ In this project I tried to showcase my understanding of HTML elements such as pa
 After learning about CSS, styling and the cascade I have come back to improve my website appearance. I did this through external CSS linking and making use
 of ID, class and type selectors.
 
+01/04 UPDATE
+
+Further styling given to index.html file based off my most recent learnings of CSS such as layouts, colors, margins, paddings, borders and styles to make the page more unique.
+
 
