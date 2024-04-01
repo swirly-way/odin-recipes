@@ -5,7 +5,7 @@ body {
 .main-container {
   width: 600px;
   height: 400px;
-  background: #fff;
+  background-image: url(./images/background.gif);
   margin: 16px auto;
   padding: 8px;
 }
