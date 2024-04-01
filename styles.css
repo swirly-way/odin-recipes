@@ -2,8 +2,15 @@ body {
     background-color: bisque;
 }
 
+.main-container {
+    width: 600px;
+  background: #fff;
+  margin: 16px auto;
+  padding: 8px;
+}
 
 .title {
+    
     border-style: double;
     margin-bottom: 40px;
     background-color: white;
