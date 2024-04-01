@@ -17,6 +17,7 @@ h1 {
 }
 
 .index-container {
+    border-style: double;
     background-color: white;
 }
 
